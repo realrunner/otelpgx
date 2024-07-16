@@ -1,4 +1,4 @@
-module github.com/exaring/otelpgx
+module github.com/realrunner/otelpgx
 
 go 1.18
 
